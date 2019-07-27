@@ -4,7 +4,7 @@
 * spaces between parameters
 * no spaces between parentheses
 * ...
-```
+```javascript
 const equals = ( a, b ) => {
    if( a === b ) return true;
    if( a instanceof Date && b instanceof Date ) return a.getTime() === b.getTime();
