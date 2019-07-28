@@ -1,4 +1,4 @@
-### Some eslint config (in progress):
+### Eslint config (in progress):
 #### code example [equals](https://github.com/30-seconds/30-seconds-of-code#equals-):
 * indentation 3 spaces
 * spaces between parameters
