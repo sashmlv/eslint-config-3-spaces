@@ -1,19 +1,19 @@
 {
-  "name": "eslint-config",
+  "name": "eslint-config-3-spaces",
   "version": "0.0.1",
-  "description": "eslint config",
+  "description": "eslint config 3 spaces",
   "main": ".eslintrc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sashmlv/eslint-config.git"
+    "url": "git+https://github.com/sashmlv/eslint-config-3-spaces.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sashmlv/eslint-config/issues"
+    "url": "https://github.com/sashmlv/eslint-config-3-spaces/issues"
   },
-  "homepage": "https://github.com/sashmlv/eslint-config#readme"
+  "homepage": "https://github.com/sashmlv/eslint-config-3-spaces#readme"
 }
