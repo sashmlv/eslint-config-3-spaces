@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config",
+  "version": "0.0.1",
+  "description": "eslint config",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashmlv/eslint-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashmlv/eslint-config/issues"
+  },
+  "homepage": "https://github.com/sashmlv/eslint-config#readme"
+}
